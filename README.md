@@ -1,5 +1,5 @@
-## Hi there 👋
-
+ ## Hi there 👋
+My name is hasan, i am 19 years old and i study cyber security in leeds beckett university
 <!--
 **xHX54N7x/xHX54N7x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I can beatbox
 -->
